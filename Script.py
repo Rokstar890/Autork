@@ -8,7 +8,7 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: HA Bots
+    MY_OWNER_TXT = """★ Name: Ravi
 ★ Username: @HA_Bots
 ★ Country: Sri Lanka 🇱🇰"""
 
@@ -137,4 +137,4 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HA-Bots/Auto-Filter-Bot>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ - @HA_Bots"""
+- ᴅᴇᴠʟᴏᴘᴇʀ - @netflix_india_007"""
